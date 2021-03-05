@@ -1,0 +1,11 @@
+#billboard{
+  width: 100%;
+  height: 450px;
+  background: #cdcdc0;
+}
+
+#mainImg{
+  width: 960px;
+  height: 450px;
+  margin: 0 auto;
+}
