@@ -1,3 +1,5 @@
+/* 参考サイトの記述を丸ごと貼り付ける */
+
 .wideslider {
   width: 100%;
   text-align: left;
@@ -57,9 +59,8 @@
   height: 15px;
   display: inline-block;
   overflow: hidden;
-  background: rgb(163, 162, 162);
-  border: solid;
-  border-color: #fff;
+  background: rgb(177, 177, 177);
+  border: 1px solid #666;
 }
 .pagination a.active {
   filter: alpha(opacity=100) !important;
