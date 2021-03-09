@@ -1,3 +1,5 @@
+// 参考サイトを丸ごとコピペ
+
 $(function(){
   $setElm = $('.wideslider');
   baseWidth = 800;
